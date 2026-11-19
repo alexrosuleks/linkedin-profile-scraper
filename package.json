@@ -1,0 +1,20 @@
+{
+  "name": "linkedin-profile-scraper",
+  "version": "1.0.0",
+  "private": true,
+  "description": "LinkedIn Profile Scraper: Extract public LinkedIn profile details from profile URLs, public identifiers, or profile IDs: name, headline, location, about, follower counts, full experience, and educatio",
+  "main": "example.js",
+  "scripts": {
+    "start": "node example.js"
+  },
+  "keywords": [
+    "scraper",
+    "web-scraping",
+    "scrapely",
+    "linkedin"
+  ],
+  "dependencies": {
+    "scrapely-client": "^2.25.15"
+  },
+  "license": "MIT"
+}
